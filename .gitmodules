@@ -1,0 +1,10 @@
+[submodule "ext/imgui"]
+	path = ext/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "ext/glfw"]
+	path = ext/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "ext/sdl2"]
+	path = ext/sdl2
+	url = https://github.com/libsdl-org/SDL.git
+	branch = SDL2
